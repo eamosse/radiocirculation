@@ -71,12 +71,6 @@
             <artifactId>virtuosojdbc</artifactId>
             <version>1.0</version>
         </dependency>
-        
-         <dependency>
-            <groupId>fr.unice.i3s.wimmics</groupId>
-            <artifactId>rss-generator-custom</artifactId>
-            <version>1.0</version>
-        </dependency>
     </dependencies>
 
     <build>
